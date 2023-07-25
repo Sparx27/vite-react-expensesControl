@@ -1,1 +1,2 @@
-Site: https://sparx27-expenses-control.vercel.app/
+# Expense management application
+https://sparx27-expenses-control.vercel.app/
