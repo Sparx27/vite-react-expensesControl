@@ -1,0 +1,4 @@
+styled components
+CRUD with local storage
+react-swipeable-list
+react-circular-progressbar

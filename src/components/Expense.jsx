@@ -19,13 +19,13 @@ import SubscriptionsIcon from '../img/icono_suscripciones.svg'
 const Expense = ({expense, setEditExpense, deleteExpense}) => {
   const { name, amount, category, date } = expense
   const iconDictionary = {
-    ahorro: SavingIcon,
-    casa: HouseIcon,
-    comida: FoodIcon,
-    gastos: OtherIcon,
-    ocio: LeisureIcon,
-    salud: HealthIcon,
-    suscripciones: SubscriptionsIcon
+    saving: SavingIcon,
+    house: HouseIcon,
+    food: FoodIcon,
+    other: OtherIcon,
+    leisure: LeisureIcon,
+    health: HealthIcon,
+    subscriptions: SubscriptionsIcon
   }
 
   const leadingActions = () => (
